@@ -19,7 +19,7 @@
 
 ### <p align="center">😄 MY SNS 😄</p>
 <p align="center">
-<a href="https://github.com/Lee-jin-gu"><img src="https://img.shields.io/badge/Github-000000?style?style=flat-square&logo=GitHub&logoColor=white" target="_blank"/></a>
+<a href="https://github.com/DRJingu/drjingu"><img src="https://img.shields.io/badge/Github-000000?style?style=flat-square&logo=GitHub&logoColor=white" target="_blank"/></a>
 <a href="https://www.facebook.com/profile.php?id=100038733101378&viewas=&show_switched_toast=false"><img src="https://img.shields.io/badge/Facebook-1877F2?style?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/jin904_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://open.kakao.com/o/sWan0Tdd"><img src="https://img.shields.io/badge/Kakao-FFCD00?style?style=flat-square&logo=KaKaotalk&logoColor=white"/></a>
